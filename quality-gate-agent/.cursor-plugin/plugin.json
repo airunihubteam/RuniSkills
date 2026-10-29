@@ -1,0 +1,10 @@
+{
+  "name": "quality-gate-agent",
+  "version": "1.0.0",
+  "description": "Run a merge-ready quality gate that combines code review, QA, and a targeted test.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

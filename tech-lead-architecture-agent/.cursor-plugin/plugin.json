@@ -1,0 +1,10 @@
+{
+  "name": "tech-lead-architecture-agent",
+  "version": "1.0.0",
+  "description": "Translate a PRD into technical decisions, boundaries, and implementation slices.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

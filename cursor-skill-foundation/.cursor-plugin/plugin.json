@@ -1,0 +1,10 @@
+{
+  "name": "cursor-skill-foundation",
+  "version": "1.0.0",
+  "description": "Create or improve Cursor-ready skills, rules, and expertises for a project.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "dev-composer-agent",
+  "version": "1.0.0",
+  "description": "Implement a feature in small, testable slices across data, services, UI, and tests.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

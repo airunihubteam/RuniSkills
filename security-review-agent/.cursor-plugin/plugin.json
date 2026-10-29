@@ -1,0 +1,10 @@
+{
+  "name": "security-review-agent",
+  "version": "1.0.0",
+  "description": "Review a feature for practical security risks before it is ready to ship.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "runi-skills",
+  "owner": {
+    "name": "airunihubteam"
+  },
+  "metadata": {
+    "description": "Course agent skills for product, UX, UI, architecture, implementation, debug, quality, and security."
+  },
+  "plugins": [
+    {
+      "name": "cursor-skill-foundation",
+      "source": "cursor-skill-foundation",
+      "description": "Create or improve Cursor-ready skills, rules, and expertises for a project."
+    },
+    {
+      "name": "debug-fix-agent",
+      "source": "debug-fix-agent",
+      "description": "Debug a failing feature from evidence, isolate the cause, and apply the smallest safe fix."
+    },
+    {
+      "name": "dev-composer-agent",
+      "source": "dev-composer-agent",
+      "description": "Implement a feature in small, testable slices across data, services, UI, and tests."
+    },
+    {
+      "name": "product-prd-agent",
+      "source": "product-prd-agent",
+      "description": "Turn a rough product idea into a usable PRD with scope, flows, and acceptance criteria."
+    },
+    {
+      "name": "quality-gate-agent",
+      "source": "quality-gate-agent",
+      "description": "Run a merge-ready quality gate that combines code review, QA, and a targeted test."
+    },
+    {
+      "name": "security-review-agent",
+      "source": "security-review-agent",
+      "description": "Review a feature for practical security risks before it is ready to ship."
+    },
+    {
+      "name": "tech-lead-architecture-agent",
+      "source": "tech-lead-architecture-agent",
+      "description": "Translate a PRD into technical decisions, boundaries, and implementation slices."
+    },
+    {
+      "name": "ui-design-systems-agent",
+      "source": "ui-design-systems-agent",
+      "description": "Turn UX flows into a UI plan with components, tokens, states, and accessibility."
+    },
+    {
+      "name": "ux-user-flow-agent",
+      "source": "ux-user-flow-agent",
+      "description": "Design user journeys, screen logic, and state handoffs before visual UI work."
+    }
+  ]
+}

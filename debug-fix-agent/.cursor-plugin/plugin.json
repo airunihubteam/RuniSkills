@@ -1,0 +1,10 @@
+{
+  "name": "debug-fix-agent",
+  "version": "1.0.0",
+  "description": "Debug a failing feature from evidence, isolate the cause, and apply the smallest safe fix.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

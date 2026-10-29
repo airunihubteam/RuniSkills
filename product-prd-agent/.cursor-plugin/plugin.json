@@ -1,0 +1,10 @@
+{
+  "name": "product-prd-agent",
+  "version": "1.0.0",
+  "description": "Turn a rough product idea into a usable PRD with scope, flows, and acceptance criteria.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

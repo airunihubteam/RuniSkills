@@ -1,0 +1,10 @@
+{
+  "name": "ux-user-flow-agent",
+  "version": "1.0.0",
+  "description": "Design user journeys, screen logic, and state handoffs before visual UI work.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}

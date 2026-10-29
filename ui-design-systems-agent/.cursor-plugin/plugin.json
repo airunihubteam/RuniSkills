@@ -1,0 +1,10 @@
+{
+  "name": "ui-design-systems-agent",
+  "version": "1.0.0",
+  "description": "Turn UX flows into a UI plan with components, tokens, states, and accessibility.",
+  "repository": "https://github.com/airunihubteam/RuniSkills",
+  "keywords": [
+    "runi",
+    "course"
+  ]
+}
